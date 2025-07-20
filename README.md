@@ -1,2 +1,2 @@
-# dance-portfolio
+# index.html
 My dance webpage
